@@ -61,11 +61,11 @@ Three linked tables, all included in this repo:
 ---
 
 ## 💡 Key Insights
-- **Revenue is concentrated in a few months.** Revenue peaks in February and August, with smaller peaks in March and November, and stays much lower in the other months. This matches Valentine's Day and Raksha Bandhan season. ✔
-- **Colors is the top-earning category**, ahead of Soft Toys and Sweets. ✔
-- **Anniversary is the top occasion by revenue**, followed by Raksha Bandhan. ✔
-- **Order volume is spread across many cities.** The top 10 cities each have fewer than 30 orders, so no single city dominates. ✔
-- The top 5 products earn similar amounts, so revenue does not depend on one product. ✔
+- **Revenue is concentrated in a few months.** Revenue peaks in February and August, with smaller peaks in March and November, and stays much lower in the other months. This matches Valentine's Day and Raksha Bandhan season. 
+- **Colors is the top-earning category**, ahead of Soft Toys and Sweets. 
+- **Anniversary is the top occasion by revenue**, followed by Raksha Bandhan. 
+- **Order volume is spread across many cities.** The top 10 cities each have fewer than 30 orders, so no single city dominates. 
+- The top 5 products earn similar amounts, so revenue does not depend on one product. 
 
 ---
 
